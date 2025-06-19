@@ -1,0 +1,10 @@
+{
+  "name": "SmartGarage V0 ",
+  "description": "AI-powered care for EVs & hybrids in Africa. Virtual Diagnosis, Battery Prediction, Spares Sourcing, SOS, and Community. This version implements renamed features, new service pages with updated user flows, and simulated authentication for the community hub.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "prompt": ""
+}
